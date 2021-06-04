@@ -1,0 +1,11 @@
+body.low {
+    background-color: aquamarine;
+}
+
+body.medium {
+    background-color: goldenrod;
+}
+
+body.high {
+    background-color: indianred;
+}
