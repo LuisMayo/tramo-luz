@@ -65,4 +65,4 @@ setTimeout(function() {
     updateHour();
     // We compute each hour from that point
     setInterval(updateHour, 60 * 60 * 1000);
-}, (62 - new Date().getMinutes()) * 60 * 1000);
+}, (60 - new Date().getMinutes()) * 60 * 1000);
